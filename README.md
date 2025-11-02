@@ -13,7 +13,7 @@
 
 ### back to unity hub
 6. Projects -> Add -> Add project from disk
-![Screenshot]((https://github.com/Willhebe/UnityGitHubGameJam25/blob/0f3a951a857e51fd7299ac90c3a639c845b156d4/Screenshot%202025-11-02%20211220.png)
+![Screenshot](https://github.com/Willhebe/UnityGitHubGameJam25/blob/0f3a951a857e51fd7299ac90c3a639c845b156d4/Screenshot%202025-11-02%20211220.png)
 ![Screenshot.](https://myoctocat.com/assets/images/base-octocat.svg)
 8. Navigate to folder where you put the clone and then open folder : UnityGitHubGameJam25
 9. Press Open
