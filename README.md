@@ -12,7 +12,7 @@
    ``` 
 
 ### back to unity hub
-6. Projects -> Add -> Add project from disk [Screenshot](!Screenshot 2025-11-02 211220.png)
+6. Projects -> Add -> Add project from disk ![Screenshot](Screenshot 2025-11-02 211220.png)
 7. Navigate to folder where you put the clone and then open folder : UnityGitHubGameJam25
 8. Press Open
 9. Open the project - takes about 5 -10 minutes to rebuild the libraries and open project on my slow machine
