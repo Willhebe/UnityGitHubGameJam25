@@ -2,7 +2,7 @@
 
 ## Editing instructions
 1. Install Unity Hub
-2. Using usity Hub : Install Unity 6000.2.10f1
+2. Using unity Hub : Install Unity 6000.2.10f1
 
 ### Using git in Windows
 3. Create folder you wish to work in
