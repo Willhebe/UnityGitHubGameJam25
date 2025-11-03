@@ -1,5 +1,10 @@
 # Unity 3D Game - for [GitHub game off jam 25](https://itch.io/jam/game-off-2025)
 
+## Current state of game 
+1. Tested could build web version of unity game and [host on itch.io](https://willhebe.itch.io/unity-test-waves-github-game-off-25)
+2. Made cylinder and put basic texture of a t-shirt with writing on it
+3. No movement as yet.
+
 ## Editing instructions
 1. Install Unity Hub
 2. Using unity Hub : Install Unity 6000.2.10f1
