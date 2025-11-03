@@ -1,4 +1,4 @@
-# Unity 3D Game
+# Unity 3D Game - for [GitHub game off jam 25](https://itch.io/jam/game-off-2025)
 
 ## Editing instructions
 1. Install Unity Hub
