@@ -4,6 +4,9 @@
 1. Install Unity Hub
 2. Using unity Hub : Install Unity 6000.2.10f1
 
+### Note
+You may need git LFS (Large File Storage) at [git lfs](https://git-lfs.com/)  to do this because of how I set up the GitHub repository to use this
+
 ### Using git in Windows
 3. Create folder you wish to work in
 4. Navigate to folder in File Manager and right click -> open Git Bash here (I have to show more options to get to this)
@@ -20,5 +23,3 @@
 10. Open the project - takes about 5 -10 minutes to rebuild the libraries and open project on my slow machine
 11. edit.
 
-### Note
-You may need git LFS (Large File Storage) at [git lfs](https://git-lfs.com/)  to do this because of how I set up the GitHub repository to use this
