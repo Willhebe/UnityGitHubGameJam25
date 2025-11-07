@@ -20,7 +20,7 @@ You may need git LFS (Large File Storage) at [git lfs](https://git-lfs.com/)  to
    ```
 6. go to folder in file manager and open UnityGitHubGameJam25 - .git files should be there.
 7. open git bash again in this folder.
-8.Switch branch to dev branch to get latest updates.
+8. Switch branch to dev branch to get latest updates.
    ```
       git switch dev
    ``` 
