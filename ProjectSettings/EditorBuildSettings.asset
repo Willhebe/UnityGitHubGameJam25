@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/RedFloor.unity
     guid: 7d1f33908dec8954281cc46d1084a6ef
+  - enabled: 1
+    path: Assets/TerrainTestScene.unity
+    guid: ac8a859ed59db5b4fa57e8d6159a4926
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
